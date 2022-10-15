@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>In Tempore.</i>
+subtitle: The University Of Houston
 
 profile:
   align: right
