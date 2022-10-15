@@ -6,7 +6,7 @@ subtitle: The University Of Houston
 
 profile:
   align: right
-  image: csgsa_logo.png
+  image: temp_logo.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>4800 Calhoun Rd</p>
