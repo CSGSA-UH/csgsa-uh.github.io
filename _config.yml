@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  
-first_name: Computer Science
-middle_name: fe
-last_name: Graduate Student Association
+title: Computer Science Graduate Student Association
+first_name: 
+middle_name:
+last_name:
 email: mmeskhi@uh.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
