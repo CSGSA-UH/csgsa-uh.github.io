@@ -1,11 +1,11 @@
 ---
 layout: page
-title: officers
-permalink: /officers/
-description: Current CS-GSA officers and members.
+title: people
+permalink: /people/
+description: Current CS-GSA officers, students, and faculty.
 nav: true
 nav_order: 1
-display_categories: [officers, members]
+display_categories: [officers, students, faculty]
 horizontal: false
 ---
 
