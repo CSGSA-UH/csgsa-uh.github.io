@@ -18,3 +18,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Primarily focused for graduate students, this organization takes efforts to address issues faced by all graduate students as one united voice and also to socialize among themselves and others outside the organization.
+
+Our mission is to facilitate communication between graduate students and the administrators to address for concerns regarding the graduate program. Work towards improving the quality of life in the department. We believe it plays a vital role in influencing the ability of students to fulfill teaching and research duties. For more information, visit our resources page.
