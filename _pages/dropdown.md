@@ -1,13 +1,14 @@
 ---
 layout: page
-title: submenus
+title: resources
 nav: true
-nav_order: 6
+nav_order: 2
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: funding
+      permalink: /funding/
+    - title: international students
+      permalink: /intstud/
+    - title: alumni
+      permalink: /alumni/
 ---
