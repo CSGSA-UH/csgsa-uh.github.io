@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /officers/
-title: officers
-description: Current CS-GSA officers.
+permalink: /events/
+title: events
+description: Events and communications from CS-GSA.
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Gotta add a calendar here or something.
