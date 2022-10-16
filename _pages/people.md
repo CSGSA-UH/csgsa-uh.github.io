@@ -1,11 +1,11 @@
 ---
 layout: page
-title: people
+title: People
 permalink: /people/
 description: Current CS-GSA officers, students, and faculty.
 nav: true
 nav_order: 1
-display_categories: [officers, students, faculty]
+display_categories: [Officers, Students, Faculty]
 horizontal: false
 ---
 

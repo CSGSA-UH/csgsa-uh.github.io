@@ -1,14 +1,14 @@
 ---
 layout: page
-title: resources
+title: Resources
 nav: true
 nav_order: 2
 dropdown: true
 children: 
-    - title: funding
+    - title: Funding
       permalink: /funding/
-    - title: international students
+    - title: International Students
       permalink: /intstud/
-    - title: alumni
+    - title: Alumni
       permalink: /alumni/
 ---

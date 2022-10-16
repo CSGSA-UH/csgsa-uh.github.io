@@ -4,7 +4,7 @@ title: Professor
 description: Associate Professor
 img: assets/img/12.jpg
 importance: 4
-category: faculty
+category: Faculty
 ---
 
 Some prof.
